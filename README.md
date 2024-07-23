@@ -12,6 +12,16 @@
 
 This project demonstrates a linear regression model applied to the California Housing dataset, collected during the 1990 California census. The goal is to predict housing prices in California based on various features.
 
+![Screenshot (658)](https://github.com/user-attachments/assets/d791db47-9ae4-4021-b33c-a2103e6829ca)
+![Screenshot (659)](https://github.com/user-attachments/assets/92a36746-af59-436a-acbb-3da8f39bf82e)
+![Screenshot (660)](https://github.com/user-attachments/assets/e422b920-e04a-45fb-91e7-f48d9b3d5c19)
+![Screenshot (661)](https://github.com/user-attachments/assets/3dfab80a-e911-4f41-a9c2-ead2d47076bd)
+
+
+
+
+
+
 ## Features
 
 The dataset includes the following features:
