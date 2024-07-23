@@ -1,10 +1,10 @@
-
 - **Name**: RISHABH VISHWAKARMA
 - **Company**: CODTECH IT SOLUTIONS
 - **ID**: CT4DS3082
 - **Domain**: DATA SCIENCE
 - **Duration**: June to July 2024
-- **Mentor**: 
+- **Mentor**: NEELA SANTHOSH KUMAR
+
 
 # California Housing Price Prediction
 
